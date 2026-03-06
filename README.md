@@ -26,22 +26,13 @@ I enjoy building real-world projects, learning backend systems, and improving pr
 
 ---
 
-## 🚀 Projects
+### ✍️ Random Dev Quote
 
-• Student Management System (Python CLI)
-• Club Management System (Full Stack – In Progress)
-• Data Structures & Algorithms Practice
-• Backend API Experiments
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🎯 Currently Learning
+[![](https://visitcount.itsvg.in/api?id=Krishna5601-Cpu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• Backend Development (Node.js & Express)
-• Secure Authentication Systems
-• Data Structures
-• AI Integration
-
----
-
-⭐ Always learning. Always building.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Always building.
