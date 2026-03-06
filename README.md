@@ -13,31 +13,15 @@ I enjoy building real-world projects, learning backend systems, and improving pr
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,c,cpp,mongodb,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,c,cpp,mongodb,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna5601-Cpu&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Krishna5601-Cpu&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna5601-Cpu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
