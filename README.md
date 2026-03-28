@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey, I'm Krishna — aka `kr4shna0x`
+# 🦚 Hey, I'm Krishna — aka `kr4shna0x`
 
 ### Student · Backend Developer in Progress · AI & Cybersecurity Enthusiast
 
