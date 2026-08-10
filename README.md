@@ -2,11 +2,11 @@
 
 # 🦚 Hey, I'm Krishna — aka `kr4shna0x`
 
-### Student · Backend Developer in Progress · AI & Cybersecurity Enthusiast
+### Backend Developer · AI & Cybersecurity Enthusiast
 
 _Always building. Always breaking. Always learning._
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;MERN+Stack+Explorer;AI+%26+Cybersecurity+Curious;Always+shipping+something...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;PERN+Stack+Developer;RAG+%26+Gen+AI+Explorer;Networking+%26+Wireshark;Always+shipping+something...)
 
 </div>
 
@@ -20,6 +20,7 @@ _Always building. Always breaking. Always learning._
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
 
@@ -33,8 +34,22 @@ _Always building. Always breaking. Always learning._
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / Gen AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/Gen_AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Security & Networking
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2496ED?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### Tools
 
@@ -46,11 +61,24 @@ _Always building. Always breaking. Always learning._
 
 ## 📌 Featured Projects
 
-| Project                                                                                | Description                         | Tech            |
-| -------------------------------------------------------------------------------------- | ----------------------------------- | --------------- |
-| [🌶️ TeekhiJuban](https://github.com/Krishna5601-Cpu/TeekhiJuban)                       | A spicy JS project                  | JavaScript      |
-| [🎓 Student Manager System](https://github.com/Krishna5601-Cpu/student-manager-system) | CLI-based student management system | Python          |
-| [✅ Vanilla JS Todo App](https://github.com/Krishna5601-Cpu/Vanilla-JS---Todo-App)     | Clean, minimal todo app             | JavaScript, CSS |
+| Project                                                                                | Description                                                                                      | Tech                   |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------- |
+| [🧠 DocMind_Ai](https://github.com/Krishna5601-Cpu/DocMind_Ai)                         | Gen AI RAG chatbot that answers questions from PDF documents using Gemini, LangChain & Pinecone  | Python, LangChain, RAG |
+| [💸 ExpenseIQ](https://github.com/Krishna5601-Cpu/ExpenseIQ)                           | Expense tracker that goes beyond logging — built to help understand spending, not just record it | Python                 |
+| [📄 ResumAi](https://github.com/Krishna5601-Cpu/ResumAi)                               | Tool to help build better resumes                                                                | JavaScript             |
+| [🌶️ TeekhiJuban](https://github.com/Krishna5601-Cpu/TeekhiJuban)                       | A spicy JS project                                                                               | JavaScript             |
+| [🎓 Student Manager System](https://github.com/Krishna5601-Cpu/student-manager-system) | CLI-based student management system                                                              | Python                 |
+| [✅ Vanilla JS Todo App](https://github.com/Krishna5601-Cpu/Vanilla-JS---Todo-App)     | Clean, minimal todo app                                                                          | JavaScript, CSS        |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Krishna5601-Cpu&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
